@@ -1,0 +1,6 @@
+*.o
+*~
+*.exe
+solve
+solve.step1
+solve.step2
